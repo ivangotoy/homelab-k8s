@@ -1,3 +1,6 @@
+> ⚠️ **Mirror.** Primary repository: [git.digtvbg.com](https://git.digtvbg.com/ivangotoy/homelab-k8s)
+> Development, issues, and PRs happen there. The GitHub repo is read-only.
+
 # homelab-k8s
 
 4-node bare-metal Kubernetes cluster running on Intel N100 mini-PCs with CachyOS.
