@@ -42,7 +42,7 @@ Two storage provisioners running in parallel:
 | calico | tigera-operator | tigera-operator | v3.31.4 |
 | cert-manager | cert-manager | cert-manager | v1.20.0 |
 | docker-registry | default / docker-registry | docker-registry | 3.0.0 |
-| ingress-nginx | ingress-nginx | ingress-nginx | 4.15.1 |
+| envoy-gateway | envoy-gateway | envoy-gateway | 1.8.0 |
 | kubewall | kubewall-system | kubewall | 0.0.17 |
 | kured | kured | kured | 5.11.0 |
 | linkerd-control-plane | linkerd | linkerd-control-plane | edge-26.3.3 |
