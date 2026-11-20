@@ -1,5 +1,6 @@
-> ⚠️ **Mirror.** Primary repository: [git.digtvbg.com](https://git.digtvbg.com/ivangotoy/homelab-k8s)
-> Development, issues, and PRs happen there. The GitHub repo is read-only.
+> [!NOTE]
+> 🏡 **Home:** [git.digtvbg.com/ivangotoy/homelab-k8s](https://git.digtvbg.com/ivangotoy/homelab-k8s), where code, issues and releases live.
+> 🪞 **Mirror:** [github.com/ivangotoy/homelab-k8s](https://github.com/ivangotoy/homelab-k8s), read-only, synced automatically.
 
 # homelab-k8s
 
