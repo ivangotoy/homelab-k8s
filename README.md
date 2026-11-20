@@ -1,6 +1,5 @@
-> [!NOTE]
-> 🏡 **Home:** [git.digtvbg.com/ivangotoy/homelab-k8s](https://git.digtvbg.com/ivangotoy/homelab-k8s), where code, issues and releases live.
-> 🪞 **Mirror:** [github.com/ivangotoy/homelab-k8s](https://github.com/ivangotoy/homelab-k8s), read-only, synced automatically.
+> 🏠 **Home:** [git.digtvbg.com/ivangotoy/homelab-k8s](https://git.digtvbg.com/ivangotoy/homelab-k8s)\
+> 🔄 **Mirror:** [github.com/ivangotoy/homelab-k8s](https://github.com/ivangotoy/homelab-k8s) (read-only)
 
 # homelab-k8s
 
